@@ -24,8 +24,6 @@
 # print(my_nums.__next__())
 # print(my_nums.__next__())
 # print(my_nums.__next__())
-import random
-
 
 #                                  QUESTION 2
 
@@ -37,11 +35,12 @@ import random
 # print(next(my_list))
 
 #                                   QUESTION 3
+# matn = "Salom Python"
+# def harf(text:str):
+#     for i in matn:
+#         yield i
+# print(list(harf(matn)))
 
-# matn = input("Matn kiriting: ")
-# for i in matn:
-#     print(i)
-#
 #                                   QUESTION 4
 
 # def simple_gen():
