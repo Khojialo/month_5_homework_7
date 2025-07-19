@@ -37,7 +37,7 @@
 #                                   QUESTION 3
 # matn = "Salom Python"
 # def harf(text:str):
-#     for i in matn:
+#     for i in text:
 #         yield i
 # print(list(harf(matn)))
 
